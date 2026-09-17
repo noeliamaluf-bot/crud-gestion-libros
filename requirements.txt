@@ -1,0 +1,2 @@
+# Este proyecto utiliza únicamente la biblioteca estándar de Python (tkinter y sqlite3).
+# No se requieren dependencias externas extras.
